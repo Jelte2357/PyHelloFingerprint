@@ -1,0 +1,4 @@
+winrt.windows.security.credentials.ui
+PyGetWindow==0.0.9
+pywin32==306
+PyAutoGUI==0.9.54
